@@ -14,3 +14,10 @@ h1{
 #t13{
 	text-align:right;
 }
+
+#table-2{
+	border:"1px"
+}
+#table-3{
+	border-collapse:collapse
+}
