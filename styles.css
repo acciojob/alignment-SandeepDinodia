@@ -19,11 +19,24 @@ h1{
 	border-collapse:collapse;
 	height:20px;
 	width:100%;
+	border:2px solid black;
+	padding:1px;
+	spacing:1px;
+}
+.middlerow2{
+	boder:1px solid black
+	padding:1px;
+}
+td{
+	height:20px;
 	border:1px solid black;
+}
+tr{
+	height:20px;
 }
 
 #table-3{
-	border-collapse:collapse
+	border-collapse:collapse;
 }
 img{
 	width:200px;
